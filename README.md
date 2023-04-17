@@ -36,8 +36,11 @@ The axes and spines of the plot are hidden to provide a cleaner look
 
 # Dependencies
 osmnx
+
 pandas
+
 matplotlib
+
 geopandas
 
 # Acknowledgements
